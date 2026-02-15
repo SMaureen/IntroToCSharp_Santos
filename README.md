@@ -6,6 +6,7 @@ Task Description:
 This task helps to track a driver’s fuel expenses, analyze fuel efficiency, and generate a summary report. It collects the driver’s name, weekly fuel budget, total distance traveled, and daily fuel expenses. The program calculates average expenses, fuel efficiency, and checks if the driver stayed within the budget. Finally, it prints a detailed audit report.
 
 Features:
+
 • Input driver’s full name and weekly fuel budget.
 • Validate total distance traveled (1–5000 km).
 • Track fuel expenses for 5 days.
