@@ -2,7 +2,8 @@ PRELIM ACTIVITY 01: CODAC LOGISTICS DELIVERY AND FUEL AUDITOR
 Name: Santos, Maureen C.
 Course and Section: BSIT 3.2
 
-Task Description: This task helps to track a driver’s fuel expenses, analyze fuel efficiency, and generate a summary report. It collects the driver’s name, weekly fuel budget, total distance traveled, and daily fuel expenses. The program calculates average expenses, fuel efficiency, and checks if the driver stayed within the budget. Finally, it prints a detailed audit report.
+Task Description: 
+This task helps to track a driver’s fuel expenses, analyze fuel efficiency, and generate a summary report. It collects the driver’s name, weekly fuel budget, total distance traveled, and daily fuel expenses. The program calculates average expenses, fuel efficiency, and checks if the driver stayed within the budget. Finally, it prints a detailed audit report.
 
 Features:
 • Input driver’s full name and weekly fuel budget.
@@ -21,7 +22,8 @@ How to Use:
 5. Enter fuel expenses for each of the 5 days.
 6. Review the audit report displayed at the end.
 
-Technical Details
+Technical Details: 
+
 Data types used:
 • string – for driver’s name.
 • decimal – for weekly fuel budget and daily expenses (accurate for money).
