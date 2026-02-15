@@ -7,13 +7,13 @@ This task helps to track a driver’s fuel expenses, analyze fuel efficiency, an
 
 Features:
 
-• Input driver’s full name and weekly fuel budget.
-• Validate total distance traveled (1–5000 km).
-• Track fuel expenses for 5 days.
-• Calculate average daily fuel expense and fuel efficiency (km per unit of fuel).
-• Rate efficiency as High, Standard, or Low.
-• Check if the driver stayed within the weekly budget.
-• Print a complete audit report showing all data and calculations.
+Input driver’s full name and weekly fuel budget.
+Validate total distance traveled (1–5000 km).
+Track fuel expenses for 5 days.
+Calculate average daily fuel expense and fuel efficiency (km per unit of fuel).
+Rate efficiency as High, Standard, or Low.
+Check if the driver stayed within the weekly budget.
+Print a complete audit report showing all data and calculations.
 
 How to Use:
 1. Run the code.
